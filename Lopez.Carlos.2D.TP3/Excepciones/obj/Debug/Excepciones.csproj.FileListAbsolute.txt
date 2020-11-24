@@ -1,6 +1,0 @@
-C:\Users\usuario\source\repos\Lopez.Carlos.2D.TP3\Excepciones\obj\Debug\Excepciones.csprojAssemblyReference.cache
-C:\Users\usuario\source\repos\Lopez.Carlos.2D.TP3\Excepciones\obj\Debug\Excepciones.csproj.CoreCompileInputs.cache
-C:\Users\usuario\source\repos\Lopez.Carlos.2D.TP3\Excepciones\bin\Debug\Excepciones.dll
-C:\Users\usuario\source\repos\Lopez.Carlos.2D.TP3\Excepciones\bin\Debug\Excepciones.pdb
-C:\Users\usuario\source\repos\Lopez.Carlos.2D.TP3\Excepciones\obj\Debug\Excepciones.dll
-C:\Users\usuario\source\repos\Lopez.Carlos.2D.TP3\Excepciones\obj\Debug\Excepciones.pdb

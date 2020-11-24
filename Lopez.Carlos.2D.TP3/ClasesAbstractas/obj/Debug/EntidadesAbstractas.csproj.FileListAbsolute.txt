@@ -1,9 +1,0 @@
-C:\Users\usuario\source\repos\Lopez.Carlos.2D.TP3\ClasesAbstractas\obj\Debug\EntidadesAbstractas.csproj.CoreCompileInputs.cache
-C:\Users\usuario\source\repos\Lopez.Carlos.2D.TP3\ClasesAbstractas\bin\Debug\ClasesAbstractas.dll
-C:\Users\usuario\source\repos\Lopez.Carlos.2D.TP3\ClasesAbstractas\bin\Debug\ClasesAbstractas.pdb
-C:\Users\usuario\source\repos\Lopez.Carlos.2D.TP3\ClasesAbstractas\bin\Debug\Excepciones.dll
-C:\Users\usuario\source\repos\Lopez.Carlos.2D.TP3\ClasesAbstractas\bin\Debug\Excepciones.pdb
-C:\Users\usuario\source\repos\Lopez.Carlos.2D.TP3\ClasesAbstractas\obj\Debug\EntidadesAbstractas.csprojAssemblyReference.cache
-C:\Users\usuario\source\repos\Lopez.Carlos.2D.TP3\ClasesAbstractas\obj\Debug\EntidadesAbstractas.csproj.CopyComplete
-C:\Users\usuario\source\repos\Lopez.Carlos.2D.TP3\ClasesAbstractas\obj\Debug\ClasesAbstractas.dll
-C:\Users\usuario\source\repos\Lopez.Carlos.2D.TP3\ClasesAbstractas\obj\Debug\ClasesAbstractas.pdb
