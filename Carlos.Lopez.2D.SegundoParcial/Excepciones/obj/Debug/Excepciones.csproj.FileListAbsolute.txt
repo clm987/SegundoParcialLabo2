@@ -1,0 +1,6 @@
+C:\Users\usuario\source\repos\Carlos.Lopez.2D.SegundoParcial\Excepciones\bin\Debug\Excepciones.dll
+C:\Users\usuario\source\repos\Carlos.Lopez.2D.SegundoParcial\Excepciones\bin\Debug\Excepciones.pdb
+C:\Users\usuario\source\repos\Carlos.Lopez.2D.SegundoParcial\Excepciones\obj\Debug\Excepciones.csprojAssemblyReference.cache
+C:\Users\usuario\source\repos\Carlos.Lopez.2D.SegundoParcial\Excepciones\obj\Debug\Excepciones.csproj.CoreCompileInputs.cache
+C:\Users\usuario\source\repos\Carlos.Lopez.2D.SegundoParcial\Excepciones\obj\Debug\Excepciones.dll
+C:\Users\usuario\source\repos\Carlos.Lopez.2D.SegundoParcial\Excepciones\obj\Debug\Excepciones.pdb

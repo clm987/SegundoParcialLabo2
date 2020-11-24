@@ -1,0 +1,11 @@
+C:\Users\usuario\source\repos\Carlos.Lopez.2D.SegundoParcial\Entidades\obj\Debug\Entidades.csprojAssemblyReference.cache
+C:\Users\usuario\source\repos\Carlos.Lopez.2D.SegundoParcial\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\usuario\source\repos\Carlos.Lopez.2D.SegundoParcial\Entidades\bin\Debug\Entidades.dll
+C:\Users\usuario\source\repos\Carlos.Lopez.2D.SegundoParcial\Entidades\bin\Debug\Entidades.pdb
+C:\Users\usuario\source\repos\Carlos.Lopez.2D.SegundoParcial\Entidades\obj\Debug\Entidades.dll
+C:\Users\usuario\source\repos\Carlos.Lopez.2D.SegundoParcial\Entidades\obj\Debug\Entidades.pdb
+C:\Users\usuario\source\repos\Carlos.Lopez.2D.SegundoParcial\Entidades\bin\Debug\Excepciones.dll
+C:\Users\usuario\source\repos\Carlos.Lopez.2D.SegundoParcial\Entidades\bin\Debug\Excepciones.pdb
+C:\Users\usuario\source\repos\Carlos.Lopez.2D.SegundoParcial\Entidades\obj\Debug\Entidades.csproj.CopyComplete
+C:\Users\usuario\source\repos\Carlos.Lopez.2D.SegundoParcial\Entidades\bin\Debug\Archivos.dll
+C:\Users\usuario\source\repos\Carlos.Lopez.2D.SegundoParcial\Entidades\bin\Debug\Archivos.pdb

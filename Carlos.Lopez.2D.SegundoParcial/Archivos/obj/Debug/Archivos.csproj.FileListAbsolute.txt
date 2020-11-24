@@ -1,0 +1,9 @@
+C:\Users\usuario\source\repos\Carlos.Lopez.2D.SegundoParcial\Archivos\bin\Debug\Archivos.dll
+C:\Users\usuario\source\repos\Carlos.Lopez.2D.SegundoParcial\Archivos\bin\Debug\Archivos.pdb
+C:\Users\usuario\source\repos\Carlos.Lopez.2D.SegundoParcial\Archivos\bin\Debug\Excepciones.dll
+C:\Users\usuario\source\repos\Carlos.Lopez.2D.SegundoParcial\Archivos\bin\Debug\Excepciones.pdb
+C:\Users\usuario\source\repos\Carlos.Lopez.2D.SegundoParcial\Archivos\obj\Debug\Archivos.csprojAssemblyReference.cache
+C:\Users\usuario\source\repos\Carlos.Lopez.2D.SegundoParcial\Archivos\obj\Debug\Archivos.csproj.CoreCompileInputs.cache
+C:\Users\usuario\source\repos\Carlos.Lopez.2D.SegundoParcial\Archivos\obj\Debug\Archivos.csproj.CopyComplete
+C:\Users\usuario\source\repos\Carlos.Lopez.2D.SegundoParcial\Archivos\obj\Debug\Archivos.dll
+C:\Users\usuario\source\repos\Carlos.Lopez.2D.SegundoParcial\Archivos\obj\Debug\Archivos.pdb
